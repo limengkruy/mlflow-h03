@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kruylimeng/Documents/dev/data-science-class/AI%20G6/Homework/mlflow-h03/modeling/mlruns/287538927076067646/a50ce62af5fd48828dfa9c4f65932650/artifacts
+end_time: 1740471915113
+entry_point_name: ''
+experiment_id: '287538927076067646'
+lifecycle_stage: active
+run_id: a50ce62af5fd48828dfa9c4f65932650
+run_name: LogisticRegression
+run_uuid: a50ce62af5fd48828dfa9c4f65932650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740471915075
+status: 4
+tags: []
+user_id: kruylimeng

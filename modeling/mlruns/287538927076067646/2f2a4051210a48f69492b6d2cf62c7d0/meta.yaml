@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kruylimeng/Documents/dev/data-science-class/AI%20G6/Homework/mlflow-h03/modeling/mlruns/287538927076067646/2f2a4051210a48f69492b6d2cf62c7d0/artifacts
+end_time: 1740472145672
+entry_point_name: ''
+experiment_id: '287538927076067646'
+lifecycle_stage: active
+run_id: 2f2a4051210a48f69492b6d2cf62c7d0
+run_name: Naive Bayes
+run_uuid: 2f2a4051210a48f69492b6d2cf62c7d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740472144239
+status: 3
+tags: []
+user_id: kruylimeng

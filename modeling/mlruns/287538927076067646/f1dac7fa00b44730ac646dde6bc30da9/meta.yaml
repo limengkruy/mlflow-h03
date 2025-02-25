@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kruylimeng/Documents/dev/data-science-class/AI%20G6/Homework/mlflow-h03/modeling/mlruns/287538927076067646/f1dac7fa00b44730ac646dde6bc30da9/artifacts
+end_time: 1740472379418
+entry_point_name: ''
+experiment_id: '287538927076067646'
+lifecycle_stage: active
+run_id: f1dac7fa00b44730ac646dde6bc30da9
+run_name: DecisionTree
+run_uuid: f1dac7fa00b44730ac646dde6bc30da9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740472377745
+status: 3
+tags: []
+user_id: kruylimeng

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kruylimeng/Documents/dev/data-science-class/AI%20G6/Homework/mlflow-h03/modeling/mlruns/287538927076067646/f72b72d6a65f45fe93d34bd408e7e29c/artifacts
+end_time: 1740472369852
+entry_point_name: ''
+experiment_id: '287538927076067646'
+lifecycle_stage: active
+run_id: f72b72d6a65f45fe93d34bd408e7e29c
+run_name: SVM
+run_uuid: f72b72d6a65f45fe93d34bd408e7e29c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740472363419
+status: 3
+tags: []
+user_id: kruylimeng
