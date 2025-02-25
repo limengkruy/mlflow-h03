@@ -47,12 +47,7 @@ cd modeling
 python train.py
 ```
 
-### ⚡ 4. Start the FastAPI server:
-```bash
-uvicorn main:app --reload
-```
-
-### 📊 7. MLflow Experiment Tracking
+### 📊 4. MLflow Experiment Tracking
 
 #### API Endpoints
 Start MLflow UI:
@@ -62,6 +57,11 @@ mlflow ui
 ```
 
 Access the MLflow UI at: http://127.0.0.1:5000
+
+### ⚡ 5. Start the FastAPI server:
+```bash
+uvicorn main:app --reload
+```
 
 ### 🧑‍💻 6. To make predictions, send a POST request to `/predict` with the customer data in JSON format.
 
