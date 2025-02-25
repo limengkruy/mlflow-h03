@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kruylimeng/Documents/dev/data-science-class/AI%20G6/Homework/mlflow-h03/modeling/mlruns/830799900787812293/dfce49e50de84b6391c555adfd03bd49/artifacts
+end_time: 1740473494212
+entry_point_name: ''
+experiment_id: '830799900787812293'
+lifecycle_stage: active
+run_id: dfce49e50de84b6391c555adfd03bd49
+run_name: ANN_25_Epochs
+run_uuid: dfce49e50de84b6391c555adfd03bd49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740473485677
+status: 3
+tags: []
+user_id: kruylimeng

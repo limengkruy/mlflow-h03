@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kruylimeng/Documents/dev/data-science-class/AI%20G6/Homework/mlflow-h03/modeling/mlruns/830799900787812293/61484d14e0ba45788d729ea0a9aa5c52/artifacts
+end_time: 1740473478253
+entry_point_name: ''
+experiment_id: '830799900787812293'
+lifecycle_stage: active
+run_id: 61484d14e0ba45788d729ea0a9aa5c52
+run_name: XGBoost
+run_uuid: 61484d14e0ba45788d729ea0a9aa5c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740473475872
+status: 3
+tags: []
+user_id: kruylimeng

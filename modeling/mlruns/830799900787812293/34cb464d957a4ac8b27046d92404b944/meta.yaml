@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kruylimeng/Documents/dev/data-science-class/AI%20G6/Homework/mlflow-h03/modeling/mlruns/830799900787812293/34cb464d957a4ac8b27046d92404b944/artifacts
+end_time: 1740473457067
+entry_point_name: ''
+experiment_id: '830799900787812293'
+lifecycle_stage: active
+run_id: 34cb464d957a4ac8b27046d92404b944
+run_name: KNN
+run_uuid: 34cb464d957a4ac8b27046d92404b944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740473454476
+status: 3
+tags: []
+user_id: kruylimeng

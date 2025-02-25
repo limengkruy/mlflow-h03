@@ -100,3 +100,6 @@ uvicorn main:app --reload
         "prediction": "Yes" // Yes or No
     }
     ```
+
+### 7. Result Comparation
+![alt text](img/result.png)
